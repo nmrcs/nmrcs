@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Nikita
+<img alt="Nikita MRCS" src="banner.svg" width="560">
 
 **Fullstack Engineer · Software Architect**
 
